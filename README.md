@@ -1,4 +1,6 @@
 # startup
+<<<<<<< HEAD
+=======
 This is my startup File
 
 this is my 2nd change
@@ -9,15 +11,14 @@ I learned how to commmis and push changes through vs code and git bash and then 
 
 Simon Javascript learn:
 I learned about how to trigger functions using onclick and timeout and how to store data locally and then retreive it in different parts of the webpage
+>>>>>>> cb9bc17322dcef1f4531dbe9e94540e8e94b35af
 
 ## Simon-service
 I learned about how to use apis to post inspirational quotes. I also learned how Node.js is used to creat out HTTp Service. I learned Curl commands better for when we used it for getscores and submitscores. I learned better how to use the web dev tools to set breakpoints to really see what the code is doing.
 
-## Simon-login
-I learned way more about cookies. I was unaware before that cookies could be used to track users. So When a user is logged in, the cookie is added. When a user makes a secure request, the cookie is checked. When the user logs out, the cookie is removed. I also learned about endpoints and how they work with the database to store and get credentials and update the authorization cookie. I also learned how the secureApiRouter works by adding middleware function that checks if the authorization cookie is valid before passing the requres to the endpoints
-
+<<<<<<< HEAD
 ## Simon-react
-I learned the steps to convert simon to a react application
+I learned the steps to convert simon to a react application 
 1 Reorganize Simon
 2 Commit: Commit this version in Git as the starting place for the conversion to React. It won't run, but by committing at this point can revert if necessary, instead of starting over. Make sure you keep testing and committing throughout this process.
 3 Create template React application. Run npx create-react-app template-react. This creates a new directory named template-react that contains the basic configuration and template React application code.
@@ -38,3 +39,7 @@ I learned the steps to convert simon to a react application
 12 Refactor play.jsx into simonGame.jsx, simonButton.jsx, and players.jsx
 13 Refactor components to take advantage of React specific functionality and to create sub-components
 14 Move webSocket code from play.jsx to gameNotifier.js
+ 
+=======
+## Simon-login
+I learned way more about cookies. I was unaware before that cookies could be used to track users. So When a user is logged in, the cookie is added. When a user makes a secure request, the cookie is checked. When the user logs out, the cookie is removed. I also learned about endpoints and how they work with the database to store and get credentials and update the authorization cookie. I also learned how the secureApiRouter works by adding middleware function that checks if the authorization cookie is valid before passing the requres to the endpoints
