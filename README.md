@@ -13,6 +13,9 @@ Simon Javascript learn:
 I learned about how to trigger functions using onclick and timeout and how to store data locally and then retreive it in different parts of the webpage
 >>>>>>> cb9bc17322dcef1f4531dbe9e94540e8e94b35af
 
+## Simon-db
+I learned how to use mongodb to store data like high scores into the simon website. I also learned a lot of just terminal commands better. Like using echo to check what variable stands for what. So when I set up my mongousername, password, and host name I used echo to check if it had been done correctly. I also learned about database clusters and what code to update those data base clusters. I thought it was interesting how to use an SSH session to conenct my database cluster to my code and project that I am working on. Overall great learning experience.
+
 ## Simon-service
 I learned about how to use apis to post inspirational quotes. I also learned how Node.js is used to creat out HTTp Service. I learned Curl commands better for when we used it for getscores and submitscores. I learned better how to use the web dev tools to set breakpoints to really see what the code is doing.
 
